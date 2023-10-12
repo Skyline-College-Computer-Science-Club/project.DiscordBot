@@ -1,0 +1,5 @@
+requests
+discord.py
+termcolor
+./smccd_directory_client
+./smccd_schedule_client

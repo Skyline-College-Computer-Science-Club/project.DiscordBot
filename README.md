@@ -8,9 +8,9 @@ Current alive as @CSCommunity.
 
 ## 🔰 Quick Setup / Getting Started
 1) Install Python @ https://www.python.org
-2) Install the `discord.py` package via pip:
+2) Install the `requirements.txt` package via pip:
   
-`pip install discord`
+`pip install -r requirements.txt`
 
 3) Profit?
 ## 📚 Important Resources and Documentation
