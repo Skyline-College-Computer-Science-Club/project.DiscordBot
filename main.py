@@ -24,4 +24,8 @@ async def coinflip(ctx):
         coin = "heads"
     await ctx.send(coin)
 
+@bot.command()
+async def say(ctx, arg):
+    await ctx.send(arg)
+
 bot.run('MTExNDQDU1M[[[[[[[[redacted]]]]]]]]dp1NfzDzB3E4')
