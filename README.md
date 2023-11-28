@@ -1,6 +1,8 @@
 # 🤖 Community Discord Bot Project
 
-A decentralized, community-driven Discord Bot application.
+A decentralized, community-driven Discord bot application.
+
+Be able to develop a back-end app through the medium of Discord's API.
 
 <img src="https://github.com/Skyline-College-Computer-Science-Club/.github/blob/main/assets/cscommunity.png" width=400></img>
 
